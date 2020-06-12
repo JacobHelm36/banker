@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Bank {
   public static void main(String[] args) {
-    BankAcct obj = new BankAcct("Jake", "12E44FF12");
+    BankAcct obj = new BankAcct("Fellow citizen", "12E44FF12");
     obj.showMenu();
 
   }
